@@ -38,7 +38,7 @@ do{
 		cout << "\nYou just didn't see it, better luck next time.";
 		cout << "\nJust kidding You woke up right after that, got you good there didn't I.\n";
 	}
-
+	
 	else if (userInput == "table" || userInput == "Table")
 	{
 		cout << "\nYou decided to go to the table.";
